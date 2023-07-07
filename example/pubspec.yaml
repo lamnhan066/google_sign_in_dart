@@ -2,15 +2,15 @@ name: google_sign_in_dart_example
 description: Example app for google_sign_in_dart
 
 environment:
-  sdk: '>=2.12.0 <3.0.0'
+  sdk: ">=2.12.0 <3.0.0"
   flutter: ">=2.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
-  http: ^0.13.5
+  http: ^1.1.0
   url_launcher: ^6.1.10
-  googleapis: ^10.1.0
+  googleapis: ^11.2.0
   extension_google_sign_in_as_googleapis_auth: ^2.0.9
 
   google_sign_in: ^6.0.1
