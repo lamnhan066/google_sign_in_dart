@@ -1,12 +1,11 @@
 name: google_sign_in_dartio
 description: Flutter package for Google Sign-In built in dart and support both Mobile and Desktop environments.
 version: 0.3.0
-homepage: https://github.com/long1eu/google_sign_in_dart
-commit: 89794a635a5efad6705e3d7ccc29e8139318d947
+homepage: https://github.com/lamnhan066/google_sign_in_dart
 
 environment:
-  sdk: ">=2.12.0 <4.0.0"
-  flutter: ">=2.0.0"
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.3.0"
 
 dependencies:
   flutter:
